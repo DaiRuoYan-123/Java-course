@@ -90,6 +90,7 @@ Scanner console=new Scanner(System.in); //从标准输入设备（一般是键�
           
 ## 系统运行截图
 
-![a](
+![a](https://github.com/DaiRuoYan-123/Java-course/blob/main/f1ac0d1d30a344fe9bf582e14cb8891.png)
+
 
 
