@@ -24,6 +24,24 @@
 
 ## 实验过程
 
-先
+1.先创建父类people类，编写出编号，姓名，性别，所在院系等信息；
+
+2.创建student类，teacher类作为people类的子类，运用extends people继承父类信息；
+
+3.用super(number,name,sex,yuan)，实例化子类；
+
+4.用this关键字给每一个变量传递它们的值
+
+5.用public String toString()返回该对象的字符串表示，输出信息；
+
+6.运用Scanner console=new Scanner(System.in)表示从标准输入设备（一般是键盘）中读取数据
+
+7.用while（），if（）进行循环和选择，实现选课，退课，查询等要求；
+
+8.最后打印输出所要的结果。
+
+## 流程图
+
+！[]
 
 
