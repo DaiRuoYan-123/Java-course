@@ -91,6 +91,14 @@ Scanner console=new Scanner(System.in); //从标准输入设备（一般是键�
 ## 系统运行截图
 
 ![a](https://github.com/DaiRuoYan-123/Java-course/blob/main/f1ac0d1d30a344fe9bf582e14cb8891.png)
+![b](https://github.com/DaiRuoYan-123/Java-course/blob/main/410b7f7ce6667379b5d69322c4b3bb1.png)
+
+## 编程感想
+
+通过这次实验进行了简易的学生选课系统的编写，更加了解了父类与子类的继承方法，extends方法和super（）实例化子类，同时Object根类的toString（）方法,
+将相关对象的信息输出，也学习到了Scanner console=new Scanner(System.in)是表示从标准输入设备中读取数据，使程序实际，友好化，在实验中，也加强了对if（）
+认识，也学习等号两边必须是类型相等的两个变量。
+希望在接下来的学习中能学习并掌握更多的知识。
 
 
 
